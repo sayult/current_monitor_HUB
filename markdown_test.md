@@ -41,4 +41,5 @@ ___
 
 7. 链接/图片
 [点击这里跳转到交响熏陶](https://www.bilibili.com/video/BV1cs4y117X6/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=6e4d7452efbb1dd97b5a146a5897966d)
-![还能放图片？放一只米塔在这里](C:\Users\SAYULT\Desktop\markdown\mita.jpg)
+  
+  ![还能放图片？放一只米塔在这里](mita.jpg)
